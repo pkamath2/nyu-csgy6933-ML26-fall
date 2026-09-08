@@ -4,7 +4,7 @@
 **Teaching Assistant:** Purnima Kamath 
 
 
-This repository (all notebooks and instructions) was originally created by Julia Wilkins (@juliawilkins) for the spring 2026 semester
+This repository (all notebooks and instructions) was originally created by Julia Wilkins [@juliawilkins](https://github.com/juliawilkins) for the spring 2026 semester
 
 ----
 
