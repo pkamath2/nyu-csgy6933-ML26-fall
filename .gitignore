@@ -1,0 +1,72 @@
+# =====================
+# macOS
+# =====================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =====================
+# Python bytecode
+# =====================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =====================
+# Virtual environments
+# =====================
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# =====================
+# Distribution / packaging
+# =====================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =====================
+# Unit test / coverage reports
+# =====================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+
+# =====================
+# Jupyter / IPython
+# =====================
+.ipynb_checkpoints
+.profile_default/
+.ipython/
+
+# =====================
+# Editors & IDEs
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =====================
+# Logs & temp files
+# =====================
+*.log
+*.tmp
+
+# =====================
+# OS / misc
+# =====================
+Thumbs.db
+
